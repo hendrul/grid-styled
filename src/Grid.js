@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components/native'
 import Box from './Box'
 
 const align = props => ({ verticalAlign: props.align || 'top' })
